@@ -1,3 +1,3 @@
 # Java-Sliding-Block-Puzzle
 
-Project finished in Feb 2023
+Project ended in February 2023
